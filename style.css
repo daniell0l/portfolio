@@ -83,6 +83,10 @@ header .navegacao-primaria li a {
    max-width: 80%;
 }
 
+.digitando {
+  font-size: 60px;
+}
+
 .digitando::after {
   content: '|';
   margin-left: 5px;
